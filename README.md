@@ -13,7 +13,7 @@ Calligraphy is a significant form of art and culture. In this project, I aim to 
 * Opencv
 
 #### Result
-> The generated pictures
+> The generated pictures:
 ![image](./figure/dragon.gif)
 
 #### Brief summary
