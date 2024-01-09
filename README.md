@@ -14,7 +14,7 @@ Calligraphy is a significant form of art and culture. In this project, I aim to 
 
 #### Result
 > The generated pictures
-![image](https://github.com/Kai0927/Diffusion-Model-for-Calligraphy/tree/main/figure/dragon.gif)
+![image](./figure/dragon.gif)
 
 #### Brief summary
 In this project, I train the diffusion model from scratch, and figure out its amazing creation ability!
