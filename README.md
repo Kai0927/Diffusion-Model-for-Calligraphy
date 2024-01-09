@@ -15,7 +15,7 @@ Calligraphy is a significant form of art and culture. In this project, I aim to 
 #### Result
 > The generated pictures:
 
-<img src="./figure/dragon.gif" width="50%" height="50%"/>
+<img src="./figure/dragon.gif" width="20%" height="20%"/>
 
 #### Brief summary
 In this project, I train the diffusion model from scratch, and figure out its amazing creation ability!
