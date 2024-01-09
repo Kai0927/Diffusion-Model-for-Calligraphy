@@ -5,9 +5,9 @@ Calligraphy is a significant form of art and culture. In this project, I aim to 
 
 #### Tools and Data
 * Diffusion model training structure
-<img src="./figure/illustrate.png" width="50%" height="50%"/>
 * UNET and CS attention
 * ~1000 calligraphy figures
+<img src="./figure/illustrate.png" width="50%" height="50%"/>
 
 #### Module
 * Pytorch
